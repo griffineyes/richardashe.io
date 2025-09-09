@@ -32,7 +32,7 @@ Photography Manager, Capture This, New York, NY (2012-2017)
 Equipment Manager, Milk, New York, NY (2007–2009)  
 * Provided exceptional client support throughout the studio experience, ensuring satisfaction and fostering strong client relationships.  
 * Managed studio asset inventory and logistics, optimizing equipment utilization and maintenance in a fast-paced commercial photography environment.  
-###   
+   
   
 ## Education  
   
@@ -47,7 +47,7 @@ IT Fundamentals+ (ITF+)
 ## Projects  
 [Photography Portfolio](https://richardashe.com)  
 [GitHub](https://github.com/griffineyes)  
-[Where’s Vesper?](https://dozingbats.com)** ** *(beta version 2)*  
+[Where’s Vesper?](https://dozingbats.com)(beta version 2)  
   
   
 ## Skills  
