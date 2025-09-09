@@ -1,5 +1,5 @@
 # **Richard J. Ashe**  
-## Creative Director  
+## Photographer | Creative Director  
   
 ## Contact  
 [email](mailto:me@richardashe.dev)  
