@@ -45,7 +45,7 @@ IT Fundamentals+ (ITF+)
   
 ## Projects  
 [Photography Portfolio](https://richardashe.com)  
-[Where’s Vesper?](https://dozingbats.com)(beta version 2)  
+[Where’s Vesper?](https://dozingbats.com)(beta)  
   
   
 ## Skills  
