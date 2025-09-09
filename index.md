@@ -2,7 +2,6 @@
 ## Creative Director  
   
 ## Contact  
-[website](https://richardashe.dev)  
 [email](mailto:me@richardashe.dev)  
 [phone](tel:+19172513391)  
   
