@@ -45,7 +45,6 @@ IT Fundamentals+ (ITF+)
   
 ## Projects  
 [Photography Portfolio](https://richardashe.com)  
-[GitHub](https://github.com/griffineyes)  
 [Where’s Vesper?](https://dozingbats.com)(beta version 2)  
   
   
