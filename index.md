@@ -2,7 +2,7 @@
 ## Photographer | Creative Director  
   
 ## Contact  
-[email](mailto:me@richardashe.dev)  
+[email](mailto:me@richardashe.io)  
   
   
 ## Profile  
