@@ -3,7 +3,6 @@
   
 ## Contact  
 [email](mailto:me@richardashe.dev)  
-[phone](tel:+19172513391)  
   
   
 ## Profile  
@@ -41,6 +40,9 @@ Business Management
   
 **Comptia**  
 IT Fundamentals+ (ITF+)  
+
+**The Linux Foundation**
+Open Source Software Development, Linux and Git
   
   
 ## Projects  
