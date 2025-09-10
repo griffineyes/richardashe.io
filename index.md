@@ -40,9 +40,9 @@ Business Management
   
 **Comptia**  
 IT Fundamentals+ (ITF+)  
-
-**The Linux Foundation**
-Open Source Software Development, Linux and Git
+  
+**The Linux Foundation**  
+Open Source Software Development, Linux and Git  
   
   
 ## Projects  
