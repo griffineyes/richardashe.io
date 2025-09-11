@@ -55,18 +55,20 @@ Open Source Software Development, Linux and Git
 ### Hard Skills:  
 * Photography  
 * Commercial Art  
-* Computer Science  
+* Creative   
 * Direction  
 * Production  
 * Management  
+* Leadership  
 * Strategy  
 * Development  
 * Logistics  
   
 ### Tools and Software:  
-* Apple Ecosystem  
+* Computer Science  
 * Cyber Security  
 * Generative AI  
+* Apple Ecosystem  
 * Adobe CS  
 * Linux  
 * Git  
