@@ -46,7 +46,7 @@ Open Source Software Development, Linux and Git
   
   
 ## Projects  
-[Photography Portfolio](https://richardashe.com)  
+[Photography Portfolio](https://richardashe.com/work)  
 [Where’s Vesper?](https://dozingbats.com)(beta)  
 [Linktree](https://linktr.ee/richardashe)  
   
