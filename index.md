@@ -57,7 +57,8 @@ Generative AI
 ### Hard Skills:  
 * Photography  
 * Commercial Art  
-* Creative   
+* Computer Science
+* Cybersecurity  
 * Direction  
 * Production  
 * Management  
@@ -68,7 +69,6 @@ Generative AI
   
 ### Tools and Software:  
 * Computer Science  
-* Cyber Security  
 * Generative AI  
 * Apple Ecosystem  
 * Adobe CS  
