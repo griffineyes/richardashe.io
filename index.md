@@ -44,6 +44,8 @@ IT Fundamentals+ (ITF+)
 **The Linux Foundation**  
 Open Source Software Development, Linux and Git  
   
+**Google Cloud**  
+Generative AI  
   
 ## Projects  
 [Photography Portfolio](https://richardashe.com/work)  
