@@ -62,15 +62,13 @@ Generative AI
 * Direction  
 * Production  
 * Management  
-* Leadership  
 * Strategy  
 * Development  
 * Logistics  
   
 ### Tools and Software:  
-* Computer Science  
-* Generative AI  
 * Apple Ecosystem  
+* Generative AI  
 * Adobe CS  
 * Linux  
 * Git  
