@@ -46,6 +46,7 @@ Open Source Software Development, Linux and Git
   
 **Google Cloud**  
 Generative AI  
+Secure AI Framework (SAIF)  
   
 ## Projects  
 [Photography Portfolio](https://richardashe.com/work)  
