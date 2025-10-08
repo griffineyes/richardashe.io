@@ -58,6 +58,7 @@ Secure AI Framework (SAIF)
 ### Hard Skills:  
 * Photography  
 * Commercial Art  
+* Systems Engineering  
 * Computer Science
 * Cybersecurity  
 * Direction  
