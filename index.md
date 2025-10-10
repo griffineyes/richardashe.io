@@ -36,9 +36,6 @@ Equipment Manager, Milk, New York, NY (2007–2009)
 **Brooklyn College**  
 B.A. Philosophy of Art  
 Business Management  
-
-**International Center of Photography**
-Darkroom & Equipment Room Intern
   
 **Comptia**  
 IT Fundamentals+ (ITF+)  
