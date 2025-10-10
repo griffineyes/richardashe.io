@@ -7,7 +7,7 @@ Contact me via [email](mailto:me@richardashe.io)
 ## Profile  
 **Creative Director | Systems Engineer**   
   
-Creative executive with a strong track record in international commercial art. Specialized in leading commercial photography and film creative teams and providing strategic product development. Adept at identifying innovative solutions to complex creative challenges and driving high-impact results in fast-paced, high-pressure environments. Recognized for developing and nurturing creative talent while delivering exceptional visual storytelling and creative direction.  
+Creative executive with a strong track record in international commercial art. Specialized in leading commercial photography/film creative teams and providing strategic product development. Known to deliver technical, managerial, and logistical expertise to ensure that all components—hardware, software, people, processes, and environments—work together to meet defined stakeholder needs and performance objectives. Adept at identifying innovative solutions to complex creative challenges and driving high-impact results in fast-paced, high-pressure environments. Recognized for developing and nurturing creative talent while delivering exceptional visual storytelling and creative direction.  
   
   
 ## Experience  
