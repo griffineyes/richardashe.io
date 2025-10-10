@@ -1,7 +1,7 @@
 # **Richard J. Ashe**  
 ## Photographer  
   
-### Contact me via [email](mailto:me@richardashe.io)  
+Contact me via [email](mailto:me@richardashe.io)  
   
   
 ## Profile  
