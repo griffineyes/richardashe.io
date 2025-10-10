@@ -1,4 +1,4 @@
-# **Richard J. Ashe**  
+# **Curriculum Vitae**  
 ## Photographer  
   
 Contact me via [email](mailto:me@richardashe.io)  
