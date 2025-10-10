@@ -52,8 +52,35 @@ Secure AI Framework (SAIF)
   
 ## Projects  
 [Photography Portfolio](https://richardashe.com/work)  
+
 [Where’s Vesper?](https://dozingbats.com)(beta)  
+
 [Linktree](https://linktr.ee/richardashe)  
+
+Sombra Projects
+NYPH 2010
+Dumbo, NY USA
+May 2010
+
+TIMEZONES
+NYPH 2009
+Dumbo, NY USA
+May 2009
+
+II Amerika
+I.C.P.
+Manhattan, NY USA
+September - October 2008
+
+Amerika
+Bushwick Open Studios
+Brooklyn, NY USA
+June 2008
+
+Postcards From the Edge
+Visual AIDS
+Manhattan, NY USA
+December 2006
   
 ## Skills  
   
