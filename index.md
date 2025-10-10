@@ -67,7 +67,7 @@ Secure AI Framework (SAIF)
 * Logistics  
   
 ### Tools and Software:  
-* Analog & Digital: 35mm, Medium Format, Large Format  
+* Analog & Digital Cameras: 35mm, Medium Format, Large Format  
 * Apple Ecosystem  
 * Generative AI  
 * Adobe CS  
