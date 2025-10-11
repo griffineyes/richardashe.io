@@ -63,10 +63,10 @@ Secure AI Framework (SAIF)
 ## Projects  
 [Photography Portfolio](https://richardashe.com/work)  
 
-[GitHub](https://github.com/griffineyes)  
-
 [Where’s Vesper?](https://dozingbats.com) (beta)  
 
+[GitHub](https://github.com/griffineyes)  
+  
 Sombra Projects
 NYPH 2010
 Dumbo, NY USA
