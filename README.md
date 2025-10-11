@@ -1,5 +1,5 @@
-# static-resume
-A static markdown webpage for my résumé.  
+# static-CV
+A static markdown webpage for my Curriculum Vitae.  
   
 [richardashe.io](https://richardashe.io)  
   
