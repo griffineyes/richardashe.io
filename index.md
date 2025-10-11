@@ -97,14 +97,16 @@ December 2006
 * Logistics  
   
 ### Soft Skills:
-* Adaptability & Resilience  
-* Collaboration & Teamwork  
-* Communication
-* Cultural Competence & Inclusion  
-* Leadership & Influence  
-* Problem‑Solving & Critical Thinking  
-* Professionalism & Work Ethic  
-* Time Management & Organization  
+* Adaptability  
+* Collaboration  
+* Communication  
+* Critical Thinking  
+* Cultural Competence  
+* Leadership  
+* Networking  
+* Organization  
+* Professionalism  
+* Time Management  
   
 ### Tools and Software:  
 * Analog & Digital Cameras: 35mm, Medium Format, Large Format  
