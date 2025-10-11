@@ -13,7 +13,7 @@ Creative executive with a strong track record in international commercial art. S
 ## Experience  
   
 Photographer, Freelance (2000-Present)  
-* Served an Elite roster of clients including acclaimed Photographers; Cliff Watts, Richard Burbridge, Benny Horne, Vincent Peters, Ellen Von Unwerth. Global fashion brands; Lacoste, Nike, New York & Co., Apple, Supreme, Lanvin, Top Shop, Aritzia, Liz Claiborne, Ralph Lauren. Leading editorial publications; Instyle, Cosmo, N.Y. Times, Harpers Bazaar, Numero, Vogue.  
+* Served an Elite roster of clients including acclaimed Photographers; Cliff Watts, Richard Burbridge, Benny Horne, Vincent Peters, Ellen Von Unwerth. Global brands; Lacoste, Nike, New York & Co., Apple, Supreme, Lanvin, Top Shop, Aritzia, Liz Claiborne, Ralph Lauren. Leading editorial publications; Instyle, Cosmo, N.Y. Times, Harpers Bazaar, Numero, Vogue.  
   
 Photography Manager, Creative Business Management, New York, NY (2017-2024)  
 * Directed creative teams to optimize workflows and implement innovative solutions, consistently delivering ambitious shoots on time and within budget.  
