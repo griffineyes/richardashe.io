@@ -13,9 +13,9 @@ Creative executive with a strong track record in international commercial art. S
 ## Experience  
   
 Photographer, Freelance (2000-Present)  
-* Served an Elite roster of clients including acclaimed Photographers; Cliff Watts, Richard Burbridge, Benny Horne, Vincent Peters, Ellen Von Unwerth. Global brands; Lacoste, Nike, New York & Co., Apple, Supreme, Lanvin, Top Shop, Aritzia, Liz Claiborne, Ralph Lauren. Leading editorial publications; Instyle, Cosmo, N.Y. Times, Harpers Bazaar, Numero, Vogue.  
+* Served an elite roster of clients including acclaimed Photographers; Cliff Watts, Richard Burbridge, Benny Horne, Vincent Peters, Ellen Von Unwerth. Global brands; Lacoste, Nike, New York & Co., Apple, Supreme, Lanvin, Top Shop, Aritzia, Liz Claiborne, Ralph Lauren. Leading editorial publications; Instyle, Cosmo, N.Y. Times, Harpers Bazaar, Numero, Vogue.  
   
-Photography Manager, Creative Business Management, New York, NY (2017-2024)  
+Photography Manager, Creative Business Management, New York, NY (2018-2024)  
 * Directed creative teams to optimize workflows and implement innovative solutions, consistently delivering ambitious shoots on time and within budget.  
 * Partnered with artists to guide productions, oversee design direction, manage product selection, and support grant application efforts, ensuring seamless execution of complex projects.  
 * Cultivated and leveraged an extensive network of creative industry decision-makers, driving new partnerships and expanding business opportunities.  
@@ -26,7 +26,7 @@ Photography Manager, Capture This, New York, NY (2012-2017)
 * Implemented comprehensive production strategy techniques for studio asset management to our roster of leading photographers and film-makers.  
 * Administration of mentorship program to train dozens of creative interns effective skills that can produce measurable results in professional working situations on the way to them becoming photographers, photography assistants, digital technicians, producers, and art directors.  
   
-Producer, Lacoste, Global (20010-2011)  
+Producer, Lacoste, Global (2010-2011)  
 * Work with directors, art directors, and clients to define the visual style, narrative, and objectives of the shoot.
 * Create and monitor budgets covering talent fees, crew wages, equipment rentals, locations, permits, travel, post‑production, and contingency costs.  
 * Negotiate rates with vendors and ensure cost‑effective sourcing without compromising quality.  
