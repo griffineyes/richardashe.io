@@ -128,3 +128,4 @@ December 2006
   
 ### Languages:  
 * English (Native)  
+* Spanish (Novice)
