@@ -60,7 +60,7 @@ Open Source Software Development, Linux and Git
 Generative AI  
 Secure AI Framework (SAIF)  
   
-**Hack the Box Academy**
+**Hack the Box Academy**  
 AI Red Teamer  
   
 ## Projects  
