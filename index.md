@@ -59,6 +59,7 @@ Open Source Software Development, Linux and Git
 **Google Cloud**  
 Generative AI  
 Secure AI Framework (SAIF)  
+Google Workspace Administrator  
   
 **Hack the Box Academy**  
 AI Red Teamer  
